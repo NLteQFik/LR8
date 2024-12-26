@@ -1,0 +1,3 @@
+/home/matsvei/Documents/453502/ОАиП/LR8/Task_2/build/CMakeFiles/Task_2.dir
+/home/matsvei/Documents/453502/ОАиП/LR8/Task_2/build/CMakeFiles/edit_cache.dir
+/home/matsvei/Documents/453502/ОАиП/LR8/Task_2/build/CMakeFiles/rebuild_cache.dir
